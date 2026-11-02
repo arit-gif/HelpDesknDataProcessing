@@ -1,0 +1,3 @@
+record_id,department,metric_name,numeric_value
+R101,CSE-Lab,DowntimeMins,45.00
+R102,Server-Room,DowntimeMins,15.00

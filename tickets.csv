@@ -1,0 +1,3 @@
+ticket_id,requester,category,priority,status
+T101,Alice,Network,High,Open
+T102,Bob,Hardware,Low,Resolved
